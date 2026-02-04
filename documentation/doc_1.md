@@ -49,29 +49,25 @@ This function iterates to character array provided and checks if parenthesis mat
 
 * Purpose: To remove an element from the stack if it not empty.
 
-### Orgranization for main function 
+### Orgranization of main function 
 
 In the main function to keep things simple, function parenthesisMatch is called and if it is true then parenthesis matched is printed and if flase then parenthesis does not match is printed.
 
 
 ## Sample Output
 
-1) Input:
-![alttext]({5F943698-234C-494A-9D96-66527F3800D7}.png)
-
-Output:
-![alt text]({8C6C2768-1214-4BB8-BF60-306E1A8AF442}.png)
+1) Input:<br>
+<img src="media/{5F943698-234C-494A-9D96-66527F3800D7}.png" width="400"/>
+<img src="media/{8C6C2768-1214-4BB8-BF60-306E1A8AF442}.png" width="400"/>
 
 
-2) Input:
-![alt text]({BFFD2A22-D721-4088-9967-7C62A911D3E3}.png)
+2) Input:<br>
+<img src="media/{BFFD2A22-D721-4088-9967-7C62A911D3E3}.png" width="400"/>
+<img src="media/{8B3B78AE-1468-41BC-BFEE-7039DCA35B87}.png" width="400"/>
 
-Output:
-![alt text]({8B3B78AE-1468-41BC-BFEE-7039DCA35B87}.png)
 
-3) Input: 
-![alttext]({DAFAD9C2-4948-4AEE-A300-2040DA214502}.png)
+3) Input: <br>
+<img src="media/{DAFAD9C2-4948-4AEE-A300-2040DA214502}.png" width="400"/>
+<img src="media/{C7C95CAE-C7CC-486D-B0FC-B410AEA23823}.png" width="400"/>
 
-Output: 
-![alt text]({C7C95CAE-C7CC-486D-B0FC-B410AEA23823}.png)
 
