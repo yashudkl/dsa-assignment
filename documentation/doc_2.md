@@ -4,15 +4,19 @@ Stack has array implementation with the help of structure. Then it is dynamicall
 
 Code for reference: 
 
-1) Line no 4 (For defining stack)
+1) Line no 4 (For defining stack) <br>
+```
 struct stack {
     int size;
     int top;
     char *arr;
 };
+```
 
-2) Line no 45 (Initializing stack)
+2) Line no 45 (Initializing stack)<br>
+```
  struct stack *sp = (struct stack *)malloc(sizeof(struct stack));
+ ```
 
 ### Function Implementation
 

@@ -4,13 +4,14 @@ Linked List is defined by defining a node as strucutre with data and a pointer t
 
 Code for reference: 
 
-1) Line no 4 (For linked list)
+1) Line no 4 (For linked list) <br>
+```
 struct Node{
     int data;
     struct Node* next;
     struct Node* previous;
 };
-
+```
 ### Function Implementation
 
 Here are list of functions implemented with their purpose
