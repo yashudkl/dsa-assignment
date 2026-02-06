@@ -25,17 +25,17 @@ insertNode function takes previous node and connects its next pointer to current
 
 * Purose: To insert a node in a doubly linked list.
 
-3) deleteNode
+3) deleteNode <br>
 deleteNode takes two nodes as parameter one is head node (original) and the other one is node to be deleted. If the node to be deleted is not head node then previous nodes next pointer is connected with next node and next node's previous pointer is connected with previous node in the end memory is made free.
 
 * Purpose: To delete a node from doubly linked list.
 
-4) printForward
+4) printForward <br>
 It uses while loop to ensure that until head node is null it prints every element in forward manner by printing next nodes data.
 
 * Purpose: To print linked list in forward manner.
 
-5) printBackward
+5) printBackward <br>
 It uses while loop to print linked list in backward manner by passing previous node from tail till it's null.
 
 * Purpose: To print linked list in backward manner.
@@ -53,7 +53,8 @@ In main function new nodes are created and data is given to them also next node 
 
 2) Deleting head node. <br>
 <img src="media/{26EF3E9A-59F4-4556-B177-7EE2340D6281}.png" width="400"/>
-<img src="media/" width="400"/>
+
+<img src="media/{FD8576BF-EC37-4782-A080-917582FFF31E}.png" width="400"/>
 
 3) Deleting node 5 which was inserted. <br>.
 <img src="media/{FC1388CF-489F-4A40-882F-C640FC8242F7}.png" width="400"/>
