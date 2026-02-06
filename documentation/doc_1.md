@@ -18,31 +18,31 @@ struct stack {
 
 Here are list of functions implemented with their purpose
 
-1) isEmpty 
+1) isEmpty <br>
 This function checks if stack if empty or not if top is equals to -1 stack is empty.
 
 * Purpose: To check if the stack is empty or not
 
-2) isFull
+2) isFull <br>
 This function checks if stack is full or not which means if top has value is one less than size then means that the stack is full.
 
 * Purose: To check if the stack if full or not
 
-3) push
+3) push <br>
 This function helps adding an element in stack following FILO principle (First In Last Out).It must satisfy condtion where it is not full.
 
 * Purpose: To add an element in stack if it is not full.
 
-4) pop
+4) pop <br>
 This function helps removing an element from stack following FILO principle(First In Last Out).It must satsify conditon where it is not empty.
 
 
-5) isMatching 
+5) isMatching  <br>
 This function compares if poped element matches with the element which is being compared 
 
 * Purpose: To compare popped element and element that is to be compared other wise logic won't work since [,} will also be true
 
-6) parenthesisMatch
+6) parenthesisMatch <br>
 This function iterates to character array provided and checks if parenthesis matches or not. It pushes in the stack if it finds any opening parenthesis and pops out if it finds any closing parenthesis There are important condition for paranthesis matching and they are :
 * while popping if stack is underflow then it returns false
 * after checking all characters if stack is not empty it returns false.
