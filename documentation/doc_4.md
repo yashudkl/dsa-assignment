@@ -56,7 +56,7 @@ In main function new nodes are created and data is given to them also next node 
 
 <img src="media/{FD8576BF-EC37-4782-A080-917582FFF31E}.png" width="400"/>
 
-3) Deleting node 5 which was inserted. <br>.
+3) Deleting node 5 which was inserted. <br>
 <img src="media/{FC1388CF-489F-4A40-882F-C640FC8242F7}.png" width="400"/>
 <img src="media/{3DB96A2B-708A-4B0C-90FD-6775AA9FF587}.png" width="400"/>
 
