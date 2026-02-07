@@ -54,7 +54,7 @@ DFS uses function recurssion which is in memory a stack and implements traversal
 
 * Purpose: To traverse the graph using DFS algorithm.
 
-### Orgranization of main function 
+## Orgranization of main function 
 Queue is initialized in main function by assigning it's front and rear both zero and giving it size and also allocating it dynamically using malloc function and also both the function DFS and BFS are called in main function.
 
 
