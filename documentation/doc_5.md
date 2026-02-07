@@ -1,10 +1,10 @@
-### Representation of graph as adjancey matrix
+## Representation of graph as adjancey matrix
 
 <img src="media/{C2212742-ACA5-48D4-BCFB-2669AA44D111}.png"/>
 Can be represented as:<br>
 <img src="media/{4C896132-D25B-42EF-A7BE-5FAA931B0B4D}.png"/>
 
-### Data Structures Defined
+## Data Structures Defined
 
 Queue has array implementation and is defined as strucutre with size , front index, rear index, and an array.
 
@@ -20,7 +20,7 @@ struct queue
     int* arr;
 }; 
 ```
-### Function Implementation
+## Function Implementation
 
 Here are list of functions implemented with their purpose
 
