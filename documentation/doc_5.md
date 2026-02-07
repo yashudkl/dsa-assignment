@@ -24,32 +24,32 @@ struct queue
 
 Here are list of functions implemented with their purpose
 
-1) isEmpty <br>
+1) <b>isEmpty</b> <br>
 If rear = front condtion is satisfied then the queue is empty
 
 * Purpose: To check if the queue is empty or not.
 
-2) isFull <br>
+2) <b>isFull</b> <br>
 isFull returns one if rear is equals to size - 1 which indicates that the queue is full.
 
 * Purose: To check if the queue is full or not.
 
-3) enqueue <br>
+3) <b>enqueue</b> <br>
 enqueue inserts element to queue if it is not full.
 
 * Purpose: To insert an element in queue.
 
-4) dequeue <br>
+4) <b>dequeue</b> <br>
 If the queue is not empty it increases front index by one removes value in front.
 
 * Purpose: To remove an element in queue..
 
-5) BFS <br>
+5) <b>BFS</b><br>
 Function BFS implements BFS algoritim where it adds a certain vertex to exploration queue and then mark it as visited and pick another vising node and then add it's neighbours in exploration queue and so on until every vertex is visited / printed.
 
 * Purpose: To travese the graph using BFS algorithm
 
-5) DFS <br>
+5) <b>DFS</b> <br>
 DFS uses function recurssion which is in memory a stack and implements traversal of graph.
 
 * Purpose: To traverse the graph using DFS algorithm.
