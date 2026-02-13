@@ -89,7 +89,7 @@ Integer array is created first, heap is created by calling createheap function.A
 ## Sample Output
 
 1) Max Heap and Min Heap of given array.<br>
-<img src = "media/{A9755A48-2989-420C-97AD-B3139773C968}.png" width = "400"> <br>
+<img src = "media/{2F96279D-EA36-4F0B-872B-142EE89F352C}.png" width = "400"> <br>
 <img src="media/{CF5F8139-458B-40D0-BE30-EDB5CDC4940A}.png" width="400"/>
 
 
